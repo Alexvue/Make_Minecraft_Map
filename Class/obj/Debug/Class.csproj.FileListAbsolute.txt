@@ -1,0 +1,58 @@
+C:\Users\Елена\Desktop\C#\Class\Class\bin\Debug\Class.exe.config
+C:\Users\Елена\Desktop\C#\Class\Class\bin\Debug\Class.exe
+C:\Users\Елена\Desktop\C#\Class\Class\bin\Debug\Class.pdb
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\MainWindow.g.cs
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\App.g.cs
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\Class_MarkupCompile.cache
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\Class_MarkupCompile.lref
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\MainWindow.baml
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\Class.g.resources
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\Class.exe
+C:\Users\Елена\Desktop\C#\Class\Class\obj\Debug\Class.pdb
+C:\Users\Елена\Desktop\C#\Template\Class\bin\Debug\Class.exe.config
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\Class.exe
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\Class.pdb
+C:\Users\Елена\Desktop\C#\Template\Class\bin\Debug\Class.exe
+C:\Users\Елена\Desktop\C#\Template\Class\bin\Debug\Class.pdb
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\MainWindow.g.cs
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\App.g.cs
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\Class_MarkupCompile.cache
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\Class_MarkupCompile.lref
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\MainWindow.baml
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\Class.g.resources
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\Елена\Desktop\C#\Template\Class\obj\Debug\Class.csproj.GenerateResource.Cache
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\bin\Debug\Class.exe.config
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\bin\Debug\Class.exe
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\bin\Debug\Class.pdb
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\MainWindow.g.cs
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\App.g.cs
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\Class_MarkupCompile.cache
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\Class_MarkupCompile.lref
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\MainWindow.baml
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\Class.g.resources
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\Class.csproj.GenerateResource.cache
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\Class.exe
+C:\Users\akosh\Desktop\Школа Программистов\C#\Template\Class\obj\Debug\Class.pdb
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\bin\Debug\Class.exe.config
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\bin\Debug\Class.exe
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\bin\Debug\Class.pdb
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\MainWindow.g.cs
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\App.g.cs
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\Class_MarkupCompile.cache
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\Class_MarkupCompile.lref
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\MainWindow.baml
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\Class.g.resources
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\Class.csproj.GenerateResource.cache
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\Class.exe
+C:\Users\akosh_d2dp8au\Desktop\shp\C#\3D Compl\Class\obj\Debug\Class.pdb
